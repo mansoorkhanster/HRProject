@@ -1,3 +1,5 @@
 First Step to learn GIT
 
 Adding and updating this file
+
+Understanding pushing conflicts
