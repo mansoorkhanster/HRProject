@@ -1,3 +1,8 @@
 First Step to learn GIT
 
 Adding and updating this file
+
+
+
+
+Making changes in Local copy
