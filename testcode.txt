@@ -2,7 +2,11 @@ First Step to learn GIT
 
 Adding and updating this file
 
+<<<<<<< HEAD
 
 
 
 Making changes in Local copy
+=======
+Understanding pushing conflicts
+>>>>>>> 08ae123783fe617cd3c236da03db168990749528
